@@ -1,7 +1,7 @@
 <h2 > Weather APP </h2>
 Demo: https://musing-johnson-7b08cd.netlify.app/
 <p> The weather App made with React and openweathermap API  </p>
-<p> Users can search by city and look at weather condition incuding the min and max temperature by day with updtaded information from openweathermap API
+<p> Users can search by city and look at weather condition incuding the min and max temperature by day with updated information from openweathermap API
 </p>
 <p>Technology use:</p>
 <p>Frontend: </p>
